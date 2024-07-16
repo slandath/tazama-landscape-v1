@@ -7,7 +7,7 @@
 
 -   [Current Version]
 -   [Interactive Version]
--   [New Entries]
+-   [Adding New Items]
 -   [Corrections]
 -   [Non-Updated Items]
 -   [License]
@@ -16,7 +16,7 @@
 -   [Vulnerability reporting]
 
 <!-- Change to the description of your landscape -->
-This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. 
+This landscape is intended as a map to explore the Tazama Project's Ecosystem. 
 
 It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] and based on the same open source code.
 
@@ -28,16 +28,14 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 Please see [landscape view].
 
-## New Entries
+## Adding New Items
 
--   Projects must be open source and hosted on or mirrored to GitHub.
--   Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
--   We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
+-   The addidion of a Project entry will be at the discretion of the Tazama TSC. Project's must be open source and hosted on or mirrored to GitHub.
 -   Your project or company needs a logo and the logo needs to include the name.
--   Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
--   The logo must adhere to the [landscape logo guidelines]
+-   Crunchbase organization should be the company or organization that is the owner of the trademark, whether or not a trademark has been formally filed.
+-   The logo must adhere to the [landscape logo guidelines] (https://github.com/cncf/landscapeapp/blob/master/README.md#logos)
 
-If you think your project should be included, please open a pull request to add it to [landscape.yml]. For the logo, please upload an SVG to the `hosted_logos` directory.
+If you think your company should be included, please open a pull request to add it to [landscape.yml]. For the logo, please upload an SVG to the `hosted_logos` directory.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 
