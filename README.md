@@ -9,15 +9,14 @@
 -   [Interactive Version]
 -   [Adding New Items]
 -   [Corrections]
--   [Non-Updated Items]
+-   [Stale Entries]
 -   [License]
 -   [Formats]
 -   [Installation]
 -   [Vulnerability reporting]
 
 <!-- Change to the description of your landscape -->
-This landscape is intended as a map to explore the Tazama Project's Ecosystem. 
-
+This landscape maps the Tazama Project's Ecosystem. 
 It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] and based on the same open source code.
 
 ## Current Version
@@ -33,7 +32,7 @@ Please see [landscape view].
 -   The addidion of a Project entry will be at the discretion of the Tazama TSC. Project's must be open source and hosted on or mirrored to GitHub.
 -   Your project or company needs a logo and the logo needs to include the name.
 -   Crunchbase organization should be the company or organization that is the owner of the trademark, whether or not a trademark has been formally filed.
--   The logo must adhere to the [landscape logo guidelines] (https://github.com/cncf/landscapeapp/blob/master/README.md#logos)
+-   The logo must adhere to the [landscape logo guidelines]
 
 If you think your company should be included, please open a pull request to add it to [landscape.yml]. For the logo, please upload an SVG to the `hosted_logos` directory.
 
@@ -47,9 +46,9 @@ If the error is with data from [Crunchbase] you should open an account there and
 
 More about leveraged external data sources is at https://github.com/cncf/landscapeapp\#external-data.
 
-## Non-Updated Items
+## Stale Entries
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of [projects sorted by last update].
+We generally remove Participating Companies that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of [projects sorted by last update].
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -78,23 +77,23 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 [Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
 [2]: https://app.netlify.com/sites/ospolandscape-landscape/deploys
 [landscape view]: https://ospolandscape.todogroup.org
-[PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
-[PNG]: https://ospolandscape.todogroup.org/images/landscape.png
+[PDF]: https://landscape.tazama.org/images/landscape.pdf
+[PNG]: https://landscape.tazama.org/images/landscape.png
 [issue]: https://github.com/jmertic/landscape-template/issues/new
-[projects sorted by last update]: https://ospolandscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+[projects sorted by last update]: https://landscape.tazama.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 <!--- These shouldn't need updated -->
 [Landscape Template Logo]: images/left-logo.svg
 [Current Version]: #current-version
 [Interactive Version]: #interactive-version
-[New Entries]: #new-entries
+[Adding New Items]: #adding-new-items
 [Corrections]: #corrections
-[Non-Updated Items]: #non-updated-items
+[Stale Entries]: #stale-entries
 [License]: #license
 [Formats]: #formats
 [Installation]: #installation
 [Vulnerability reporting]: #vulnerability-reporting
 [Cloud Native Computing Foundation (CNCF) landscape]: https://landscape.cncf.io
-[landscape logo guidelines]: https://github.com/cncf/landscapeapp#images
+[landscape logo guidelines]: https://github.com/cncf/landscapeapp/blob/master/README.md#logos
 [landscape.yml]: landscape.yml
 [processed_landscape.yml]: processed_landscape.yml
 [Crunchbase]: https://www.crunchbase.com/
