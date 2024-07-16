@@ -102,8 +102,8 @@ home:
 # ads for the landscape. Good opportunity to advertise your project events
 ads:
   - url: https://tazama.org/contact/calendar/
-    image: /images/info1.jpg
-    title: Kubecon + CloudNativeCon Europe 2020
+    image: /images/cal-iocn.svg
+    title: Tazama Community Calendar
 # preset searches
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
