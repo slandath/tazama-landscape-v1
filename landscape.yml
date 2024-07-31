@@ -1,1 +1,108 @@
-landscape: Tazama
+landscape: 
+  - category:
+    name: Tazama Project Participants
+    subcategories:
+      - subcategory:
+        name: System Integrators
+        items:
+          - item:
+            name: Infitx
+            homepage_url: https://infitx.com/
+            logo: Infitx-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/infitx
+          - item:
+            name: LexTego
+            homepage_url: https://lextego.com/
+            logo: LexTego-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/lextego
+          - item:
+            name: PaySys Labs
+            homepage_url: https://www.paysyslabs.com/
+            logo: PaySys-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/paysys-labs
+          - item:
+            name: Sybrin
+            homepage_url: https://www.sybrin.com/
+            logo: LexTego-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/sybrin
+          - item:
+            name: WiredIn
+            homepage_url: http://www.wiredin.rw/
+            logo: WiredIn-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/wiredin 
+      - subcategory:
+        name: Consulting Firms
+        items:
+          - item:
+            name: AO Group
+            homepage_url: https://weareao.group/
+            logo: AO-logo.svg
+ #           twitter: 
+ #           crunchbase: https://www.crunchbase.com/organization/infitx
+          - item:
+            name: Crosslake Technologies
+            homepage_url: http://www.crosslaketech.com/
+            logo: Crosslake-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/crosslake-technologies
+  - category:
+    name: Tazama Project Adopters
+    subcategories:
+      - subcategory:
+        name: Institutions
+        items:
+          - item:
+            name: BCEAO
+            homepage_url: https://www.bceao.int/
+            logo: BCEAO-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/bceao
+          - item:
+            name: COMESA
+            homepage_url: https://www.comesa.int
+            logo: COMESA-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/comesa-institutions
+  - category:
+    name: Tazama Project Funders
+    subcategories:
+      - subcategory:
+        name: Charities
+        items:
+          - item:
+            name: Bill & Melinda Gates Foundation
+            homepage_url: https://www.gatesfoundation.org
+            logo: Gates-Foundation-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
+  - category:
+    name: Related Organizations
+    subcategories:
+      - subcategory:
+        name: Related Organizations
+        items:
+          - item:
+            name: AfricaNenda Foundation
+            homepage_url: https://www.africanenda.org/
+            logo: AfricaNenda-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/africanenda
+          - item:
+            name: Mojaloop Foundation
+            homepage_url: https://mojaloop.io/
+            logo: Mojaloop-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
+          - item:
+            name: Level One Project
+            homepage_url: https://www.leveloneproject.org/
+            logo: Level1-logo.svg
+ #           twitter: 
+ #           crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
+
+
