@@ -30,13 +30,19 @@ landscape:
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/sybrin
           - item:
+            name: ThisaWorks
+            homepage_url: https://www.thitsaworks.com/
+            logo: ThisaWorks-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
+          - item:
             name: WiredIn
             homepage_url: http://www.wiredin.rw/
             logo: WiredIn-logo.svg
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/wiredin 
       - subcategory:
-        name: Consulting Firms
+        name: Consulting / Staffing Firms
         items:
           - item:
             name: AO Group
@@ -50,6 +56,12 @@ landscape:
             logo: Crosslake-logo.svg
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/crosslake-technologies
+          - item:
+            name: ZeroTen Technologies
+            homepage_url: https://zerotenweb.com.ng/
+            logo: ZeroTen-logo.svg
+ #           twitter: 
+            crunchbase: https://www.crunchbase.com/organization/zeroten-technologies
   - category:
     name: Tazama Project Adopters
     subcategories:
@@ -104,5 +116,3 @@ landscape:
             logo: Level1-logo.svg
  #           twitter: 
  #           crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
-
-
