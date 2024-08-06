@@ -30,9 +30,9 @@ landscape:
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/sybrin
           - item:
-            name: ThisaWorks
+            name: ThitsaWorks
             homepage_url: https://www.thitsaworks.com/
-            logo: ThisaWorks-logo.svg
+            logo: ThitsaWorks-logo.svg
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
           - item:
@@ -49,7 +49,7 @@ landscape:
             homepage_url: https://weareao.group/
             logo: AO-logo.svg
  #           twitter: 
- #           crunchbase: https://www.crunchbase.com/organization/infitx
+ #           crunchbase: https://www.crunchbase.com/organization/XXXXX
           - item:
             name: Crosslake Technologies
             homepage_url: http://www.crosslaketech.com/
@@ -66,7 +66,7 @@ landscape:
     name: Tazama Project Adopters
     subcategories:
       - subcategory:
-        name: Institutions
+        name: In Development
         items:
           - item:
             name: BCEAO
@@ -80,7 +80,20 @@ landscape:
             logo: COMESA-logo.svg
  #           twitter: 
             crunchbase: https://www.crunchbase.com/organization/comesa-institutions
-  - category:
+      - subcategory:
+        name: In POC/Testing
+        items:
+          - item:
+            name: Pending
+ #           homepage_url: 
+            logo: left-logo.svg
+       - subcategory:
+        name: In Production
+        items:
+          - item:
+            name: Pending
+ #           homepage_url: 
+            logo: left-logo.svg
     name: Tazama Project Funders
     subcategories:
       - subcategory:
@@ -115,4 +128,4 @@ landscape:
             homepage_url: https://www.leveloneproject.org/
             logo: Level1-logo.svg
  #           twitter: 
- #           crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
+ #           crunchbase: https://www.crunchbase.com/organization/XXXXX
