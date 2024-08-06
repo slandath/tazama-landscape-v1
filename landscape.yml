@@ -87,13 +87,14 @@ landscape:
             name: Pending
  #           homepage_url: 
             logo: left-logo.svg
-       - subcategory:
+      - subcategory:
         name: In Production
         items:
           - item:
             name: Pending
  #           homepage_url: 
             logo: left-logo.svg
+  - category:
     name: Tazama Project Funders
     subcategories:
       - subcategory:
