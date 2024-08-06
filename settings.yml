@@ -14,7 +14,7 @@ global:
   # shortname
   short_name: Tazama
   # repo where this landscape is hosted ( minus the https://github.com part )
-  repo: tazama-lf/tazama-landscape
+  repo: tazama-lf/tazama-landscape-v1
   # URL to the landscape
   website: https://landscape.tazama.org
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
@@ -38,33 +38,33 @@ global:
     google_site_verification: QoKVWoKBgDtyXTeg4NlXtx3q2YP7NjVDFvtlPURt22Q
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
-  membership: Tazama Project Member
+  membership: Tazama Project Participants
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
-      - Tazama Project Member
+      - Tazama Project Participants
 # Data for the twitter card
 twitter:
   search: landscape.tazama.org
   url: https://landscape.tazama.org
-  text: Tazama Project Landscape
+  text: Tazama Project's Ecosystem Landscape 
 # Complete this section for identifying hosted projects of your project, along with member projects
 relation:
   label: Tazama Project Relation
-  url: todo
+  url: tazama
   values:
     - id: hosted
-      label: Tazama Project Projects
+      label: Tazama Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       children:
         - id: foundationproject
-          label: Tazama Project Projects
+          label: Tazama Project Child Projects
           prefix: Tazama Project
           tag: Foundation Project
-          color: '#3570af'
+          color: '#50BE99'
           big_picture_order: 1
           big_picture_label: Tazama Project Project
-          big_picture_color: rgb(24,54,114)
+          big_picture_color: rgb(80,190,153)
     - id: company
       label: Tazama Project Member
       tag: Company
@@ -78,10 +78,10 @@ relation:
 # membership levels
 membership:
   # category for project members
-  General:
-    name: Tazama Project
-    label: Member
-    funding: General
+  #General:
+    #name: Tazama Project
+    #label: Member
+    #funding: General
   # category for LF members
   linux_foundation:
     name: LF
@@ -130,14 +130,41 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: Tazama Project Member
+        category: Tazama Project Participants
         rows: 4
         width: 650
         height: 150
         top: 210
         left: 0
-        color: rgb(103,66,18)
+        color: rgb(19,105,73)
         fit_width: true
+      - type: HorizontalCategory
+        category: Tazama Project Adopters
+        rows: 4
+        width: 650
+        height: 150
+        top: 210
+        left: 0
+        color: rgb(165,9,77)
+        fit_width: true       
+      - type: HorizontalCategory
+        category: Tazama Project Funders
+        rows: 4
+        width: 650
+        height: 150
+        top: 210
+        left: 0
+        color: rgb(47,116,190)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Related Orgnaizations
+        rows: 4
+        width: 650
+        height: 150
+        top: 210
+        left: 0
+        color: rgb(0,0,0)
+        fit_width: true              
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
         width: 310
@@ -179,8 +206,8 @@ big_picture:
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: Tazama Project Landscape TEST
-  section: Tazama Project Member
-  logo: airbnb-member.svg # pick any logo to put here
+  section: Tazama Project Participants
+  logo: left-logo.svg # pick any logo to put here
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
