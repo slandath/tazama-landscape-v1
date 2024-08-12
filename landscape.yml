@@ -8,59 +8,59 @@ landscape:
           - item:
             name: Infitx
             homepage_url: https://infitx.com/
-            logo: Infitx-logo.svg
- #           twitter: 
+            logo: infitx-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/infitx
           - item:
             name: LexTego
             homepage_url: https://lextego.com/
             logo: LexTego-logo.svg
- #           twitter: 
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/lextego
           - item:
             name: PaySys Labs
             homepage_url: https://www.paysyslabs.com/
-            logo: PaySys-logo.svg
- #           twitter: 
+            logo: paysys-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/paysys-labs
           - item:
             name: Sybrin
             homepage_url: https://www.sybrin.com/
-            logo: LexTego-logo.svg
- #           twitter: 
+            logo: sybrin-logo-blue.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/sybrin
           - item:
             name: ThitsaWorks
             homepage_url: https://www.thitsaworks.com/
-            logo: ThitsaWorks-logo.svg
- #           twitter: 
+            logo: thitsaworks-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
           - item:
             name: WiredIn
             homepage_url: http://www.wiredin.rw/
-            logo: WiredIn-logo.svg
- #           twitter: 
+            logo: wiredin-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/wiredin 
       - subcategory:
         name: Consulting / Staffing Firms
         items:
-          - item:
-            name: AO Group
-            homepage_url: https://weareao.group/
-            logo: AO-logo.svg
- #           twitter: 
- #           crunchbase: https://www.crunchbase.com/organization/XXXXX
+          #- item:
+            #name: AO Group
+            #homepage_url: https://weareao.group/
+            #logo: AO-logo.svg
+            #twitter: 
+            #crunchbase: https://www.crunchbase.com/organization/XXXXX
           - item:
             name: Crosslake Technologies
             homepage_url: http://www.crosslaketech.com/
-            logo: Crosslake-logo.svg
- #           twitter: 
+            logo: crosslake-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/crosslake-technologies
           - item:
             name: ZeroTen Technologies
             homepage_url: https://zerotenweb.com.ng/
-            logo: ZeroTen-logo.svg
- #           twitter: 
+            logo: zeroten-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/zeroten-technologies
   - category:
     name: Tazama Project Adopters
@@ -72,28 +72,28 @@ landscape:
             name: BCEAO
             homepage_url: https://www.bceao.int/
             logo: BCEAO-logo.svg
- #           twitter: 
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/bceao
           - item:
             name: COMESA
             homepage_url: https://www.comesa.int
-            logo: COMESA-logo.svg
- #           twitter: 
+            logo: comesa-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/comesa-institutions
-      - subcategory:
-        name: In POC/Testing
-        items:
-          - item:
-            name: Pending
- #           homepage_url: 
-            logo: left-logo.svg
-      - subcategory:
-        name: In Production
-        items:
-          - item:
-            name: Pending
- #           homepage_url: 
-            logo: left-logo.svg
+      #- subcategory:
+        #name: In POC/Testing
+        #items:
+          #- item:
+            #name: Pending
+            #homepage_url: 
+            #logo: left-logo.svg
+      #- subcategory:
+       #name: In Production
+        #items:
+          #- item:
+            #name: Pending
+            #homepage_url: 
+            #logo: left-logo.svg
   - category:
     name: Tazama Project Funders
     subcategories:
@@ -103,8 +103,8 @@ landscape:
           - item:
             name: Bill & Melinda Gates Foundation
             homepage_url: https://www.gatesfoundation.org
-            logo: Gates-Foundation-logo.svg
- #           twitter: 
+            logo: bill-melinda-gates-foundation.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
   - category:
     name: Related Organizations
@@ -115,18 +115,18 @@ landscape:
           - item:
             name: AfricaNenda Foundation
             homepage_url: https://www.africanenda.org/
-            logo: AfricaNenda-logo.svg
- #           twitter: 
+            logo: africanendalogo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/africanenda
           - item:
             name: Mojaloop Foundation
             homepage_url: https://mojaloop.io/
-            logo: Mojaloop-logo.svg
- #           twitter: 
+            logo: mojaloop-logo.svg
+            #twitter: 
             crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
-          - item:
-            name: Level One Project
-            homepage_url: https://www.leveloneproject.org/
-            logo: Level1-logo.svg
- #           twitter: 
- #           crunchbase: https://www.crunchbase.com/organization/XXXXX
+          #- item:
+            #name: Level One Project
+            #homepage_url: https://www.leveloneproject.org/
+            #logo: Level1-logo.svg
+            #twitter: 
+            #crunchbase: https://www.crunchbase.com/organization/XXXXX

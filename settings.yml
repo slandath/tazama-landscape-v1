@@ -83,6 +83,14 @@ membership:
     #label: Member
     #funding: General
   # category for LF members
+  System Integrators:
+    name: Tazama Project
+    label: SI
+    funding: None
+  Consulting / Staffing Firms:
+    name: Tazama Project
+    label: Con
+    funding: None
   linux_foundation:
     name: LF
     label: Project
@@ -157,7 +165,7 @@ big_picture:
         color: rgb(47,116,190)
         fit_width: true
       - type: HorizontalCategory
-        category: Related Orgnaizations
+        category: Related Organizations
         rows: 4
         width: 650
         height: 150
