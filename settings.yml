@@ -91,14 +91,6 @@ membership:
     name: Tazama Project
     label: Con
     funding: None
-  Systems Integrators:
-    name: Tazama Project
-    label: SI
-    funding: None
-  Consulting / Staffing Firms:
-    name: Tazama Project
-    label: Con
-    funding: None
   # category for LF members
   linux_foundation:
     name: LF
