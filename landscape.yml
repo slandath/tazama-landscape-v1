@@ -14,32 +14,32 @@ landscape:
           - item:
             name: LexTego
             homepage_url: https://lextego.com/
-            logo: LexTego-logo.svg
-            #twitter: 
+            logo: LexTego-Logo.svg
+            twitter: https://x.com/LexTego
             crunchbase: https://www.crunchbase.com/organization/lextego
           - item:
             name: PaySys Labs
             homepage_url: https://www.paysyslabs.com/
             logo: paysys-logo.svg
-            #twitter: 
+            twitter: https://x.com/paysyslabs
             crunchbase: https://www.crunchbase.com/organization/paysys-labs
           - item:
             name: Sybrin
             homepage_url: https://www.sybrin.com/
             logo: sybrin-logo-blue.svg
-            #twitter: 
+            twitter: https://x.com/SybrinSystems
             crunchbase: https://www.crunchbase.com/organization/sybrin
           - item:
             name: ThitsaWorks
             homepage_url: https://www.thitsaworks.com/
             logo: thitsaworks-logo.svg
-            #twitter: 
+            twitter: https://x.com/thitsaworks
             crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
           - item:
             name: WiredIn
             homepage_url: http://www.wiredin.rw/
             logo: wiredin-logo.svg
-            #twitter: 
+            twitter: https://x.com/wiredinrw
             crunchbase: https://www.crunchbase.com/organization/wiredin 
       - subcategory:
         name: Consulting / Staffing Firms
@@ -104,7 +104,7 @@ landscape:
             name: Bill & Melinda Gates Foundation
             homepage_url: https://www.gatesfoundation.org
             logo: bill-melinda-gates-foundation.svg
-            #twitter: 
+            twitter: https://x.com/gatesfoundation
             crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
   - category:
     name: Related Organizations
@@ -116,13 +116,13 @@ landscape:
             name: AfricaNenda Foundation
             homepage_url: https://www.africanenda.org/
             logo: africanendalogo.svg
-            #twitter: 
+            twitter: https://x.com/AfricaNenda
             crunchbase: https://www.crunchbase.com/organization/africanenda
           - item:
             name: Mojaloop Foundation
             homepage_url: https://mojaloop.io/
             logo: mojaloop-logo.svg
-            #twitter: 
+            twitter: https://x.com/mojaloop
             crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
           #- item:
             #name: Level One Project
