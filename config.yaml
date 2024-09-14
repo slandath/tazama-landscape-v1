@@ -12,7 +12,7 @@ landscapeMemberClasses:
 #     category: Academic Institution
 #   - name: Associate Membership
 #     category: Associate
-    - name: Participating Companies
+    - name: Participants
       category: Participanting
 # Project record ID for your project. You can get this by going to the project in
 # PCC, and looking for the part of the URL after /project/. For example,
@@ -20,4 +20,4 @@ landscapeMemberClasses:
 # ID would be a092M00001MtYMaQAN 
 project: lf37MphzGC4gzPe7os # Tazama Project
 # Name of category for members 
-landscapeMemberCategory: Orgnaizations engaged with the Tazama Project
+landscapeMemberCategory: Tazama Project Participants

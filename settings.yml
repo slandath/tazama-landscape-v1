@@ -62,13 +62,13 @@ relation:
           prefix: Tazama Project
           tag: Foundation Project
           color: '#50BE99'
-          big_picture_order: 1
+          big_picture_order: 3
           big_picture_label: Tazama Project Project
           big_picture_color: rgb(80,190,153)
     - id: company
       label: Tazama Project Member
       tag: Company
-      big_picture_order: 3
+      big_picture_order: 1
     - id: member
       label: Tazama Project Member Products/Projects
       tag: Tazama Project Member
@@ -143,7 +143,7 @@ big_picture:
         rows: 4
         width: 650
         height: 150
-        top: 210
+        top: 165
         left: 0
         color: rgb(19,105,73)
         fit_width: true
@@ -152,7 +152,7 @@ big_picture:
         rows: 4
         width: 650
         height: 150
-        top: 210
+        top: 325
         left: 0
         color: rgb(165,9,77)
         fit_width: true       
@@ -161,7 +161,7 @@ big_picture:
         rows: 4
         width: 650
         height: 150
-        top: 210
+        top: 485
         left: 0
         color: rgb(47,116,190)
         fit_width: true
@@ -170,16 +170,16 @@ big_picture:
         rows: 4
         width: 650
         height: 150
-        top: 210
+        top: 635
         left: 0
-        color: rgb(0,0,0)
+        color: rgb(100,100,100)
         fit_width: true              
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
         width: 310
         height: 150
-        top: 210
-        left: 665
+        top: 10
+        left: 0
         children:
           - type: text
             text: |
